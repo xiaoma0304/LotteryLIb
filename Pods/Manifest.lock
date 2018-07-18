@@ -1,0 +1,23 @@
+PODS:
+  - LJLib (8):
+    - Masonry
+  - Masonry (1.1.0)
+
+DEPENDENCIES:
+  - LJLib (from `../LJLib/`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Masonry
+
+EXTERNAL SOURCES:
+  LJLib:
+    :path: "../LJLib/"
+
+SPEC CHECKSUMS:
+  LJLib: 987b49d020cd93deb25db4663e47ace775a144a7
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+
+PODFILE CHECKSUM: 7a1169a00bf0a2a0be87bbf45e3a0fdea419aef6
+
+COCOAPODS: 1.5.3

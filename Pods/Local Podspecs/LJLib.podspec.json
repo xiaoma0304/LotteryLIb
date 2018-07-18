@@ -1,0 +1,28 @@
+{
+  "name": "LJLib",
+  "version": "8",
+  "summary": "LJLib.",
+  "description": "this is LJLib",
+  "homepage": "http://123.56.222.33/mobile/LJLib",
+  "license": {
+    "type": "MIT",
+    "file": "FILE_LICENSE"
+  },
+  "authors": {
+    "GN_木头人": "946193683@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "http://123.56.222.33/mobile/LJLib.git",
+    "tag": "8"
+  },
+  "source_files": "LJLib/LJLib/**/*.{h,m}",
+  "requires_arc": true,
+  "dependencies": {
+    "Masonry": [
+
+    ]
+  }
+}

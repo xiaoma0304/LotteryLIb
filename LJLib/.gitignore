@@ -1,0 +1,7 @@
+LJLib.xcodeproj/xcuserdata/
+LJLib.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+LJLib.xcodeproj/project.xcworkspace/xcuserdata/
